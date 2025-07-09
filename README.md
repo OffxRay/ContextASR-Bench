@@ -22,7 +22,7 @@ You can check the [`evaluation/README.md`](evaluation/README.md) file for more d
 
 ## 📚 Citation
 ```
-@article{wang2025mmsu,
+@article{wang2025asrbench,
       title={ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark}, 
       author={He Wang and Linhan Ma and Dake Guo and Xiong Wang and Lei Xie and Jin Xu and Junyang Lin},
       year={2025},
